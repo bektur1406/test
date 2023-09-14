@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.conteiner {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.haeder .haeder-logo {
+  display: flex;
+  align-self: center;
+}
+.haeder-logo img {
+  margin: 0 5px;
+}
